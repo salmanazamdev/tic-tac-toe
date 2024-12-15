@@ -82,8 +82,8 @@ Here’s how:
 ---
 
 ## 📬 Contact
-📧 LinkedIn: linkedin.com/in/salmanazamdev
-🔗 GitHub: github.com/salmanazamdev
+📧 LinkedIn: https://linkedin.com/in/salmanazamdev
+🔗 GitHub: https://github.com/salmanazamdev
 
 ---
 
