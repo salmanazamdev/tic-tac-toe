@@ -52,7 +52,7 @@ This is a modern, visually appealing version of the classic game, built using **
 ### 1. Clone the Repository  
 ```bash  
 git clone https://github.com/salmanazamdev/tic-tac-toe.git  
-
+-
 ### 2. Open the Project  
 Open the `index.html` file in your browser to start playing!  
 
