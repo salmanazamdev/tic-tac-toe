@@ -50,7 +50,7 @@ This is a modern, visually appealing version of the classic game, built using **
 ## 💻 Getting Started  
 
 ### 1. Clone the Repository  
-'git clone https://github.com/salmanazamdev/tic-tac-toe.git'
+`git clone https://github.com/salmanazamdev/tic-tac-toe.git`
 
 ### 2. Open the Project  
 Open the `index.html` file in your browser to start playing!  
@@ -72,11 +72,11 @@ Here’s how:
 
 1. **Fork the repo.**  
 2. **Create a new branch:**  
-   'git checkout -b feature-your-feature-name'  
+   `git checkout -b feature-your-feature-name`  
 3. **Commit Your Changes**
-   'git commit -m "Added a new feature" '
+   `git commit -m "Added a new feature" `
 4. **Push to the branch:**
-   'git push origin feature-your-feature-name'
+   `git push origin feature-your-feature-name`
 5. **Open a pull request.**
 
 ---
