@@ -81,13 +81,13 @@ Here’s how:
 
 ---
 
-##📬 Contact
+##📬 Contact##
 📧 LinkedIn: linkedin.com/in/salmanazamdev
 🔗 GitHub: github.com/salmanazamdev
 
 ---
 
-##⭐ Show Your Support
+##⭐ Show Your Support##
 If you like this project, please **star** the repository to show your support! 🎉
 
 
